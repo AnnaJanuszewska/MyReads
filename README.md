@@ -1,7 +1,7 @@
 # MyReads
 
 ## Overview
-MyReads is an web application - a personal "book wishlist". User has access to two views: main page and search page. On the main page there are three shelfs of books: "Currently reading", "Want To Read", "Read". User can easily put the book on the shelf according to his own preferences and current situation by picking right label. User can also find a book in which he is interested on the search page by writing an author, a title or just one keyword.
+MyReads is a web application - a personal "book wishlist". User has access to two views: main page and search page. On the main page there are three shelfs of books: "Currently reading", "Want To Read", "Read". User can easily put the book on the shelf according to his own preferences and current situation by picking right label. User can also find a book in which he is interested on the search page by writing an author, a title or just one keyword.
 
 ## Install
 
